@@ -13,6 +13,7 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
 }
 
 .App {
@@ -49,7 +50,7 @@ label {
 input[type='text'] {
   margin-top: 0.5rem;
   padding: 0.25rem;
-  width: 100%;
+  width: 80%;
   font-size: 1rem;
   box-shadow: 2px 2px 5px #000;
   border-radius: 0.25rem;
@@ -57,7 +58,7 @@ input[type='text'] {
 }
 
 button {
-  width: 100%;
+  width: 80%;
   min-height: 48px;
   margin-top: 0.5rem;
   font-size: 1rem;
